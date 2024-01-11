@@ -10,10 +10,10 @@ The USGS is interested in building a new set of tools that will allow them to vi
 The purpose of this project is to build analytical app in two parts:
 
 Part 1: Create the Earthquake Visualization
-![Alt text](image.png)
+https://github.com/mamathaetikyala/leaflet-challenge/blob/main/Images/image.png
 
 Part 2: Gather and Plot More Data (Optional with no extra points earning)
-![Alt text](image-1.png)
+https://github.com/mamathaetikyala/leaflet-challenge/blob/main/Images/image1.png
 
 
 
