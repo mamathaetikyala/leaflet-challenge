@@ -39,7 +39,11 @@ Part 2: Gather and Plot More Data (Optional with no extra points earning)
 
 Run index.html in browser.
 
-or git page link:
+or
+
+Deployment link: 
+
+https://mamathaetikyala.github.io/leaflet-challenge/
 
 
 ## Installing
